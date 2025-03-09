@@ -8,7 +8,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; background-color: #f8f9fa; color: #333; padding: 20px;">
     <div>
-        <img src="[foodinsta-logo.png](https://images2.imgbox.com/d5/bf/uqNuVYeE_o.png)" alt="FoodInsta Logo" style="width: 150px; height: auto; margin-bottom: 20px;">
+        <img src="https://images2.imgbox.com/d5/bf/uqNuVYeE_o.png" alt="FoodInsta Logo" style="width: 150px; height: auto; margin-bottom: 20px;">
     </div>
     <h2 style="font-weight: bold; font-size: 1.8em;">FoodInsta - Your Ultimate Online Food Ordering Experience</h2>
     <h3>Tech Stack</h3>
