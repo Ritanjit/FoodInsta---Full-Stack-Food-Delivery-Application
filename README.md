@@ -10,10 +10,9 @@
     <div>
         <img src="https://images2.imgbox.com/d5/bf/uqNuVYeE_o.png" alt="FoodInsta Logo" style="width: 150px; height: auto; margin-bottom: 20px;">
     </div>
-    <h2 style="font-weight: bold; font-size: 1.8em;">FoodInsta - Your Ultimate Online Food Ordering Experience</h2>
     <h3>Tech Stack</h3>
     <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-        <img src="mongodb-logo.png" alt="MongoDB" style="width: 50px; height: auto;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="MongoDB" style="width: 50px; height: auto;">
         <img src="expressjs-logo.png" alt="Express.js" style="width: 50px; height: auto;">
         <img src="reactjs-logo.png" alt="React.js" style="width: 50px; height: auto;">
         <img src="nodejs-logo.png" alt="Node.js" style="width: 50px; height: auto;">
