@@ -1,4 +1,4 @@
-# Project Setup Guide : Project is in "Master Branch" :))
+# Project Setup Guide : Project is in 'master' branch :))
 
 <!DOCTYPE html>
 <html lang="en">
