@@ -2,60 +2,37 @@
 
 Craving something delicious? Foodlnsta is your goto platform for exploring the best restaurants and trending dishes with order what you see instand food delivery feature - All In One Place! Think of it as Instagram for food lovers, where you can share what you cook, browse mouth-watering meals, read reviews, and order your favorite food with just a tap.
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 ---
 
 ### UI Gallery
 
-<table>
-
-<tr>
-<td>
-
-  <!-- <span style="text-align: center;">*Hero Section*<span/> -->
-  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI Images/1.png" width="2000"/>
-  
-</td>
-</tr>
-
-<tr>
-<td>
-
-  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI Images/2.png" width="2000"/>
-
-</td>
-</tr>
-
-
-
-</table>
-
-
-> 🖼️ *Replace `./ui_screens/*.png` with actual paths/screenshots from the project.*
+<p align="center" style="margin:0; padding:0; line-height:0;">
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/1.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/9.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/10.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/4.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/5.png" width="2000" style="margin:0; padding:10; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/6.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/7.png" width="2000" style="margin:0; padding:0; display:block;"/>
+  <img src="https://raw.githubusercontent.com/Ritanjit/FoodInsta---Full-Stack-Food-Delivery-Application/master/UI%20Images/8.png" width="2000" style="margin:0; padding:0; display:block;"/>
+</p>
 
 ---
 
-## 🚀 Features
-- **User Authentication & Profiles** (Signup/Login)
-- **Food Feed** with trending dishes & restaurants
-- **Image Sharing** like Instagram for food
-- **Instant Food Ordering** — order directly from what you see
-- **Restaurant Listings & Menus**
-- **Cart & Checkout System** with secure payments
-- **Review & Rating System**
-- **Responsive UI** for mobile & desktop
+### Tech Stack
 
-
----
-
-
-## 🛠️ Tech Stack
-
-
-**Frontend:** React.js, Redux, Tailwind CSS
+**Frontend:** React.js, JavaScript, Tailwind CSS
 **Backend:** Node.js, Express.js
 **Database:** MongoDB (Mongoose ODM)
 **Authentication:** JWT (JSON Web Tokens)
-**Deployment:** Docker, Vercel/Heroku
 **Other Tools:** REST APIs, Cloudinary (for image uploads)
 
 ---
@@ -77,6 +54,10 @@ cd backend && npm install
 cd ../frontend && npm install
 ```
 
+---
 
-3. **Set up environment variables**
-> ⚡ FoodInsta — Turning cravings into instant orders, one tap at a time!
+<div align="center">
+
+Made with <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2763_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="20" height="20"></picture> by [Ritanjit Das](https://github.com/ritanjit)
+
+</div>
