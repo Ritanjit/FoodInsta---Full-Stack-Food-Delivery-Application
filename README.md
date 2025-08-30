@@ -29,11 +29,11 @@ Craving something delicious? Foodlnsta is your goto platform for exploring the b
 
 ### Tech Stack
 
-**Frontend:** React.js, JavaScript, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB (Mongoose ODM)
-**Authentication:** JWT (JSON Web Tokens)
-**Other Tools:** REST APIs, Cloudinary (for image uploads)
+| Category        | Technologies |
+|-----------------|--------------|
+| **Frontend**    | React.js, JavaScript, Tailwind CSS |
+| **Backend**     | Node.js, Express.js |
+| **Database**    | MongoDB (Mongoose ODM) |
 
 ---
 
